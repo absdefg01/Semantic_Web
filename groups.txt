@@ -1,0 +1,19 @@
+The M2DK groups for homework task:
+
+1. MASSAABI Maha - BESBES Abdelaziz
+2. Rui SUN - Shuopeng WANG
+3. Jérémy Aeck - Eugenie Ly 
+4. Anderson Carlos Ferreira da Silva - tmejia24
+5. Amin MESSAOUDI - Mert Ozer
+6. KOBBI Mahmoud - DEBOUB Mehdi
+7. Phuong PHAM - Waad ALMASRI
+8. Jocelyn Vernay - Nedeljko Radulovic
+9. Massy BOURENNANI- Ijaz Ullah
+10. Kexin TANG - Miaobing CHEN
+11. Paweł Guzewicz - Hamza Kasry (Question: What is the disease or list of diseases responsible for the given symptoms? The symptoms are given as input to the system.)
+12. Mengzi ZHAO - Juncheng ZHOU
+13. Wafa Djerad - Wilfried ZAKIE
+14. Duc Thang NGUYEN - Trung Kien DANG
+15. Adamu Hussein - Issa Memari - Meriem BOUZBILA (exceptional due to their late arrival)
+16. Abdelaziz Besbes - Massaabi Maha (Question: Paper written by a Tunisian in Telecom ParisTech in 2002)
+17. Xucheng Tang - Benjamin Bailly (recipes)
